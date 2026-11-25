@@ -8,6 +8,8 @@ import os
 import sys
 
 LINE = "My alarm clock rings at 6 AM on a Saturday like it has a court order, a megaphone, and a personal vendetta against my dreams."
+# The punchline lands on the last words: "dreams" is both the sleep it
+# interrupted and the ambitions it is out to get.
 
 MAX_CHARS = 200
 
